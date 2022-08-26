@@ -6,5 +6,6 @@ int main(){
     int n=2;
     printf("%c", sizeof(c));
     // printf("%d", sizeof(n));
+    printf("%d", n*2);
     return 0;
 }
